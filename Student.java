@@ -38,11 +38,7 @@ class Student{
   
 
 
-//   public void details(){
-//     System.out.println(this.name);
-//     System.out.println(this.rollno);
-//     System.out.println(this.course);
-//  }
+
 
 }
 
