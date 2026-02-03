@@ -1,5 +1,3 @@
-//import java.util.Scanner;
-
 class Student{
    private int rollno;
    private String name;
@@ -11,11 +9,8 @@ class Student{
     this.name = name ;
     this.course = course;
    }
-
-
   public int getrollno() {
-    return rollno;
-    
+    return rollno; 
 }
   public String getname(){
             return name;
@@ -34,12 +29,6 @@ class Student{
                   return rollno + " " + name + " " + course ;
                   
         }
- 
-  
-
-
-
-
 }
 
 
